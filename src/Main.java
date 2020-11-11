@@ -4,11 +4,13 @@ public class Main {
 
         System.out.println("hallo sofia");
         System.out.println("Hallo Leonita -S");
-        System.out.println("Hallo Chantal -S");
-        System.out.println("hallo leute :)");
+
 
         System.out.println("Lowkey überfordert :/");
 
         System.out.println("hallo du");
+
+
+        System.out.println("git ist super");
     }
 }
