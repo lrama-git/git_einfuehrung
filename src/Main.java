@@ -10,5 +10,10 @@ public class Main {
         System.out.println("Was geht? IDK");
         System.out.println("hallo leute :)");
         System.out.println("Lowkey überfordert :/");
+
+        System.out.println("hallo du");
+
+
+        System.out.println("git ist super");
     }
 }
