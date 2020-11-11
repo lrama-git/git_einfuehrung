@@ -5,6 +5,7 @@ public class Main {
         System.out.println("hallo sofia");
         System.out.println("Hallo Leonita -S");
         System.out.println("Hallo Chantal -S");
+        System.out.println("Was geht?");
         System.out.println("hallo leute :)");
 
         System.out.println("Lowkey überfordert :/");
